@@ -1,0 +1,10 @@
+set_io clk R9
+set_io out[0]  B8
+set_io out[1]  A9
+set_io out[2]  A10
+set_io out[3]  A11
+set_io out[4]  D8
+set_io out[5]  B9
+set_io out[6]  B10
+set_io out[7]  B11
+set_io A  C13
